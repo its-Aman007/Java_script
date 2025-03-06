@@ -15,7 +15,6 @@ console.log(array)
 console.log(newArray) // type of newarray is string
 
 
-
 console.log('A',array)
 const newa1=array.slice(1,3)
 console.log(newa1)
