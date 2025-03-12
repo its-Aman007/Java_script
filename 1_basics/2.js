@@ -2,7 +2,6 @@
 
     // ["","",""]
     // [{},{},{}]
-
 // const array=['Aman','Abhay','Satyam','Khushi']
 // for(const num of array){
 //     console.log(num);
