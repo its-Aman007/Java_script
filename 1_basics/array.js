@@ -23,3 +23,4 @@ const newa2=array.splice(1,3) // incase of splice the original array will be mod
 console.log('C',array)
 console.log(newa2)
 
+
