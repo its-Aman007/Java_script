@@ -15,7 +15,6 @@ null=> null
 undefined=> undefined
 {}=> object
  */
-
 let isLoggedIn=true
 
 let booleanIsloggedIn=Boolean(isLoggedIn)
