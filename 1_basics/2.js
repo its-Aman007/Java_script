@@ -14,7 +14,6 @@ for(const num of arr1){
 }
 
 
-
 const greeting='Hello World!'
 for(const greet of greeting)[
     //console.log(greet)
