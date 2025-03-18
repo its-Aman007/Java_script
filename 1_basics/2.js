@@ -2,6 +2,7 @@
 
     // ["","",""]
     // [{},{},{}]
+
 // const array=['Aman','Abhay','Satyam','Khushi']
 // for(const num of array){
 //     console.log(num);
@@ -11,6 +12,7 @@ const arr1=[1,2,3,4,5]
 for(const num of arr1){
     console.log(num)
 }
+
 
 
 const greeting='Hello World!'
@@ -27,6 +29,7 @@ map.set('UK',"United Kingdom")
 map.set('AU',"Australia")
 map.set('NZ',"New Zealand")
 console.log(map) // we cannot apply for in loop on maps, bcz it is not iterable
+
 
 
 
@@ -53,10 +56,7 @@ for(const key in programming){
 const language=['Javascript','Python','Ruby','Java','C#']
 language.forEach( (items,index,arr)=>{
     console.log(items,index,arr)
-})
+})  /// it will print all the values of array, index of array and array itself
 
 
-// language.forEach( function(val){
-//     console.log(val)
-// } )
 
