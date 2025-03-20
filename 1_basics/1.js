@@ -26,7 +26,6 @@ for(let i=0;i<myarray.length;i++){
 
 
 
-
 let newarray=['Batman','Superman','Flash']
 console.log(newarray.length)
 for(let i=0;i<myarray.length;i++){
