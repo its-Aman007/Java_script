@@ -11,7 +11,6 @@ const user_js={
 console.log(user_js.name)
 console.log(user_js[my_sym])
 
-
 ///    Singleton object and non singleton object.
 // Singleton object is the object which is created only once and it is used in the entire application.
 // Non singleton object is the object which is created multiple times and used in the entire application.
