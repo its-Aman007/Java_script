@@ -23,7 +23,6 @@ if (playGame) {
   });
 }
 
-
 function validateGuess(guess) {
   if (isNaN(guess)) {
     alert('PLease enter a valid number');
