@@ -62,4 +62,3 @@ console.log(course.students[1])
 
 
 
-
