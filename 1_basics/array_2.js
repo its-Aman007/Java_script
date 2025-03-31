@@ -12,7 +12,6 @@ console.log(all_heros)
 // const img_array=[1,2,3,[4,5,6,[7,8,9]]]
 // console.log(img_array.flat(Infinity))
 
-
 let num1=100
 let num2=200
 let num3=300
