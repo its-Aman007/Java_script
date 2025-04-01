@@ -39,6 +39,7 @@ console.log(null==0);
 console.log(null>0);
 console.log(null>=0); //here null is converted to number ,treated as 0.
 
+
 console.log(undefined==0);
 console.log(undefined>0);
 console.log(undefined>=0); //here undefined is converted to number ,treated as NaN.
