@@ -42,7 +42,6 @@ console.log(undefined==0);
 console.log(undefined>0);
 console.log(undefined>=0); //here undefined is converted to number ,treated as NaN.
 
-
 console.log('5'==5);// True
 console.log('5'===5);// False, it will check data_type and value both..
 
