@@ -6,6 +6,7 @@ const total=sum.reduce(
 console.log(total)
 
 
+
 const sum1=[1,2,3]
 initial_val=0
 const total1=sum1.reduce(function(acc,curr_val){
