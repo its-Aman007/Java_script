@@ -9,7 +9,6 @@ let i=0
 while(i<=10){
     console.log(i)
     i++
-
 }
 
 myarray=['Aman','Abhay','Satyam','Khushi']
