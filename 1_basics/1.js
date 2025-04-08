@@ -12,6 +12,7 @@ for(let i=0;i<=10;i++){
     }
 }
 
+
 let myarray=['Batman','Superman','Flash']
 console.log(myarray.length)
 for(let i=0;i<myarray.length;i++){
