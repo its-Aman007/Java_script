@@ -29,7 +29,6 @@ map.set('NZ',"New Zealand")
 console.log(map) // we cannot apply for in loop on maps, bcz it is not iterable
 
 
-
 const myobj={  // For objects
     'js':'Javascript',
     'py':'Python',
