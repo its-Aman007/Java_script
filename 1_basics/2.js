@@ -13,7 +13,6 @@ for(const num of arr1){
     console.log(num)
 }
 
-
 const greeting='Hello World!'
 for(const greet of greeting)[
     //console.log(greet)
