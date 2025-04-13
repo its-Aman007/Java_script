@@ -54,6 +54,7 @@ function checkGuess(guess) {
   }
 }
 
+
 function displayGuess(guess) {
   userInput.value = '';
   guessSlot.innerHTML += `${guess}, `;
