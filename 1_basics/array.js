@@ -23,3 +23,4 @@ console.log('C',array)
 console.log(newa2)
 
 
+
