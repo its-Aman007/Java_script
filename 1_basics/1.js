@@ -11,7 +11,7 @@ for(let i=0;i<=10;i++){
         console.log(i+'*'+j+'='+i*j);
     }
 }
-
+ 
 let myarray=['Batman','Superman','Flash']
 console.log(myarray.length)
 for(let i=0;i<myarray.length;i++){
